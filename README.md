@@ -28,7 +28,7 @@ A collection of my projects or assignments done in 9.4 Cohort, Pursuit Program.
 
   - To my repo: <https://github.com/pjungjs/project-bird-sanctuary>
   
-  - Deployed on Netlify: <https://app.netlify.com/sites/adoptbird-project/overview>
+  - Deployed on Netlify: <https://adoptbird-project.netlify.app/>
 
 
 - Student Dashboard Project:
