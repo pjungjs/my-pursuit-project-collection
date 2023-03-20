@@ -37,3 +37,11 @@ A collection of my projects or assignments done in 9.4 Cohort, Pursuit Program.
   
   - Deployed on Netlify: <https://student-dashboard-project.netlify.app/>
 
+
+- Youtube Clone Group Project (worked with [Diego Carrero](https://github.com/DiegoCarrero)):
+
+  - To my repo: <https://github.com/pjungjs/youtube-clone-project>
+  
+  - Deployed on Netlify: <https://dj-youtube-clone.netlify.app/>
+
+ 
