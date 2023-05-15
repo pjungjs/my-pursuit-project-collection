@@ -27,7 +27,7 @@ A collection of my projects or assignments done in 9.4 Cohort, Pursuit Program.
 
 - Youtube Clone Group Project (worked in pair):
   - To my repo: <https://github.com/pjungjs/youtube-clone-project>
-  - To preview: <https://dj-youtube-clone.netlify.app/>
+  - To preview: <https://diego-jinseok-youtube-clone.netlify.app/>
 
 ---
 
@@ -36,5 +36,9 @@ A collection of my projects or assignments done in 9.4 Cohort, Pursuit Program.
 - Budgeting App Project:
   - To my FINAL repo: <https://github.com/pjungjs/budgeting-app-project>
   - To preview : <https://jj-budgeting-app.netlify.app/>
+
+- Shopping App Group Project (worked in pair):
+  - To my repo: <https://github.com/pjungjs/shopping-app-project>
+  - To preview : <https://james-jinseok-shopping-app.netlify.app/>
 
 ---
