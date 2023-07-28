@@ -37,8 +37,30 @@ A collection of my projects or assignments done in 9.4 Cohort, Pursuit Program.
   - To my FINAL repo: <https://github.com/pjungjs/budgeting-app-project>
   - To preview : <https://jj-budgeting-app.netlify.app/>
 
-- Shopping App Group Project (worked in pair):
+- Shopping App Group Project (Single Resource Pair Project):
   - To my repo: <https://github.com/pjungjs/shopping-app-project>
   - To preview : <https://james-jinseok-shopping-app.netlify.app/>
+
+- JusChat App Project (Full-Stack Portfolio Project):
+  - To my repo: <https://github.com/pjungjs/juschat-app>
+  - To preview : <https://jj-juschat.netlify.app/>
+
+---
+
+### Module 5 (Data Structures & Algorithms):
+
+- Practice / Labs:
+  - [Lab Intro to OOP Inheritance](https://github.com/pjungjs/9.4-lab-intro-to-oop-inheritance)
+  - [Lab Intro to Linked List](https://github.com/pjungjs/9.4-lab-intro-to-linked-lists/blob/main/solution.js)
+  - [Lab Intro to Stacks and Queues](https://github.com/pjungjs/9.4-lab-intro-to-stacks-and-queues/blob/main/solution.js)
+  - [Lab Intro to Trees](https://github.com/pjungjs/9.4-lab-intro-to-trees/blob/main/index.js)
+  - [Lab Sorting Algorithms](https://github.com/pjungjs/9.4-lab-sorting-algorithms-merge/blob/main/sortMethods.js)
+
+- Hackathon 9.3 & 9.4:
+
+  > (9 teams, total of 35 people - Our group WON in One of the Three categories.)
+
+  - To my forked repo: <https://github.com/pjungjs/9-4_hackathon-team-4>
+  - To preview : <https://accessandlearn.netlify.app/>
 
 ---
